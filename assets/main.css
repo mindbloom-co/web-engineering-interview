@@ -22,3 +22,15 @@ h3 {
   margin-right: 1rem;
   margin-bottom: 1rem;
 }
+
+.ico {
+  width: 2.5rem;
+  float: left;
+  margin-right: 0.5rem;
+}
+
+.clearfix {
+  display: block;
+  content: "";
+  clear: both;
+}
